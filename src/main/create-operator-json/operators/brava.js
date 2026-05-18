@@ -19,7 +19,7 @@ brava.addCounterNode(operatorId.mozzie, counterType.minor, "Brava's Krudge drone
 brava.addCounterNode(operatorId.mute, counterType.hard, "Brava's Krudge drone can hack Mute's Jammers.");
 brava.addCounterNode(operatorId.thorn, counterType.hard, "Brava's Krudge drone can hack Thorn's Razorblooms.");
 brava.addCounterNode(operatorId.valkyrie, counterType.hard, "Brava's Krudge drone can hack Valkyrie's Black Eyes.");
-brava.addCounterNode(operatorId.fenrir, counterType.hard, "Brava's Krudge drone can hack Fenrir's Dread Mines.");
+brava.addCounterNode(operatorId.fenrir, counterType.hard, "Brava's Krudge drone can hack Fenrir's Dread Mines when activated. When inactive they can be destroyed.");
 brava.addCounterNode(operatorId.skopos, counterType.hard, "Brava's Krudge drone can hack and destroy Skopos' inactive shell. Skopos can interfere, by switching to the inactive shell.");
 brava.addCounterNode(operatorId.bandit, counterType.hard, "Brava's Krudge drone can destroy Bandit's shock wire.");
 
