@@ -19,5 +19,7 @@ wamai.addCounterNode(operatorId.kali, counterType.hard, "Wamai's MAG-NET System 
 wamai.addCounterNode(operatorId.zero, counterType.hard, "Wamai's MAG-NET System can pull and destroy Zero's Argus cameras.");
 wamai.addCounterNode(operatorId.sens, counterType.soft, "Wamai's MAG-NET System can pull Sens' ROU, which then drop to the ground and release in a random direction.");
 wamai.addCounterNode(operatorId.grim, counterType.soft, "Wamai's MAG-NET System can pull Grim's Hive Canister, which then drop to the ground and release.");
+wamai.addCounterNode(operatorId.grim, counterType.soft, "Wamai's MAG-NET System can pull and destroy Raoura's DOM Panels.");
+
 
 export default wamai
